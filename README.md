@@ -2,7 +2,7 @@
 ### ⚡ Stats
 <br/>
   
-![BBJDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=masin556&theme=vue-dark&show_icons=true)
+![BBJDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBJDH&theme=vue-dark&show_icons=true)
 
 #
   
