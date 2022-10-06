@@ -1,7 +1,7 @@
   
 ### ⚡ Stats
 <br/>
-  ![cqrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=cqrita&show_icons=true&theme=black)
+![cqrita's GitHub stats](https://github-readme-stats.vercel.app/api?username=cqrita&show_icons=true&theme=black)
 ![BBJDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBJDH&theme=vue-dark&show_icons=true)
 
 #
