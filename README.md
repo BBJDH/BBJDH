@@ -10,13 +10,6 @@
   
 </div>
 
-<!--
-<p>
-  
-![GithubBanner](https://user-images.githubusercontent.com/65951253/155552022-a48ead64-a56d-43d1-a417-7203e4586f4b.png)<br/>
-  
-</p>
--->
 
 <hr>
 <br/>
