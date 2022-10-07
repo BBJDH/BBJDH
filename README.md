@@ -46,9 +46,9 @@ Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
 <br/><br/>
 WIN API Dodge!
 <br/>
-Youtube LINK : https://youtu.be/hZg79AJhfLY?list=PL1km4TGeHWwAQ9mSigfWaJawXuzQBDJCO<br/>
+Youtube LINK : https://youtu.be/hZg79AJhfLY?list=PL1km4TGeHWwAQ9mSigfWaJawXuzQBDJCO
 <br/>
-Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
+Repository Link : https://github.com/BBJDH/GPC_10_2D.git
 </p>
 
 <br/>
