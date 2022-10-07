@@ -34,12 +34,17 @@
 #### Portfolio
 <p>
 
-Unreal4 OpenWorld TPS Action RPG <br/>
-Link : https://youtu.be/nwO06dkzJsI  <br/>
-DirectX 11 Fortress 2<br/>
-Link : https://youtu.be/A_diBH9SEqg?list=PL1km4TGeHWwDsel_Bz-725JikUoNDzYSa <br/>
-WIN API Dodge!<br/>
-LINK : https://youtu.be/hZg79AJhfLY?list=PL1km4TGeHWwAQ9mSigfWaJawXuzQBDJCO<br/>
+Unreal4 OpenWorld TPS Action RPG 
+<br/>
+Youtube Link : https://youtu.be/nwO06dkzJsI 
+ <br/><br/>
+DirectX 11 Fortress 2
+<br/>
+Youtube Link : https://youtu.be/A_diBH9SEqg?list=PL1km4TGeHWwDsel_Bz-725JikUoNDzYSa 
+<br/><br/>
+WIN API Dodge!
+<br/>
+Youtube LINK : https://youtu.be/hZg79AJhfLY?list=PL1km4TGeHWwAQ9mSigfWaJawXuzQBDJCO<br/>
 </p>
 
 <br/>
