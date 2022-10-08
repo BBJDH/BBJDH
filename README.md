@@ -33,13 +33,13 @@
 
 ### Portfolio
 
-1. Unreal4 OpenWorld TPS Action RPG 
+#### Unreal4 OpenWorld TPS Action RPG 
 <br/><br/>
   [![Unreal4 OpenWorld Portfolio](http://img.youtube.com/vi/nwO06dkzJsI/0.jpg)](https://youtu.be/nwO06dkzJsI) 
   
  <br/><br/>
  
-2. DirectX 11 Fortress 2
+#### DirectX 11 Fortress 2
 <br/><br/>
     [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/A_diBH9SEqg)) 
     
@@ -48,7 +48,7 @@ Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
 
 <br/><br/>
 
-3. WIN API Dodge!
+#### WIN API Dodge!
 <br/><br/>
     [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY)) 
     
