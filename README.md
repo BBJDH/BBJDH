@@ -35,13 +35,13 @@
 
 1. Unreal4 OpenWorld TPS Action RPG <br/>
 
-  [![Unreal4 OpenWorld Portfolio](http://img.youtube.com/vi/nwO06dkzJsI/0.jpg)](https://youtu.be/nwO06dkzJsI) 
+    [![Unreal4 OpenWorld Portfolio](http://img.youtube.com/vi/nwO06dkzJsI/0.jpg)](https://youtu.be/nwO06dkzJsI) 
   
   <br/><br/>
  
 2. DirectX 11 Fortress 2<br/>
 
-  [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/A_diBH9SEqg)) 
+    [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/A_diBH9SEqg)) 
     
 <br/><br/>
 Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
@@ -50,7 +50,7 @@ Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
 
 3. WIN API Dodge!<br/>
 
-  [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY)) 
+    [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY)) 
     
 <br/><br/>
 Repository Link : https://github.com/BBJDH/GPC_10_2D.git
