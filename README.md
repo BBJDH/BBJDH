@@ -8,6 +8,9 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBJDH&layout=compact&theme=vue-dark)](https://github.com/BBJDH) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekffjaos553)](https://solved.ac/ekffjaos553)
   
+
+### Blog 
+Link : https://blog.naver.com/ekffjaos553
 </div>
 
 
