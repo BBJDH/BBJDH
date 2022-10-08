@@ -36,18 +36,20 @@
 
 Unreal4 OpenWorld TPS Action RPG 
 <br/>
-Youtube Link : https://youtu.be/nwO06dkzJsI 
+Youtube Link : <br/>
+  [![Unreal4 OpenWorld Portfolio](http://img.youtube.com/vi/nwO06dkzJsI/0.jpg)](https://youtu.be/nwO06dkzJsI) 
  <br/><br/>
 DirectX 11 Fortress 2
 <br/>
-Youtube Link : https://youtu.be/A_diBH9SEqg?list=PL1km4TGeHWwDsel_Bz-725JikUoNDzYSa 
+Youtube Link : <br/>
+    [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/A_diBH9SEqg)) 
 <br/>
 Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
 <br/><br/>
 WIN API Dodge!
 <br/>
-Youtube LINK : https://youtu.be/hZg79AJhfLY?list=PL1km4TGeHWwAQ9mSigfWaJawXuzQBDJCO
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+Youtube LINK : <br/>
+
 <br/>
 Repository Link : https://github.com/BBJDH/GPC_10_2D.git
 </p>
