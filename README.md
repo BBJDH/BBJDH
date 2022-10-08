@@ -53,6 +53,7 @@ Youtube LINK : <br/>
 <br/>
 Youtube Link : <br/>
     [![WinApi 곰플레이어 Dodge! 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY)
+  <br/>
 Repository Link : https://github.com/BBJDH/GPC_10_2D.git
 </p>
 
