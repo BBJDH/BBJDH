@@ -32,7 +32,6 @@
 <br/>
 
 ### Portfolio
-<p>
 
 1. Unreal4 OpenWorld TPS Action RPG 
 <br/>
@@ -52,7 +51,7 @@ Youtube Link : <br/>
     [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY)) 
 <br/>
 Repository Link : https://github.com/BBJDH/GPC_10_2D.git
-</p>
+
 
 <br/>
 
