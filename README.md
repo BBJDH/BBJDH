@@ -9,7 +9,7 @@
  
 2. DirectX 11 Fortress 2<br/>
 
-    [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/A_diBH9SEqg) 
+    [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/6MtFqAAPJaw) 
     
 
     Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
