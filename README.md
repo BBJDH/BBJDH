@@ -12,7 +12,7 @@
     [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/A_diBH9SEqg/0.jpg)](https://youtu.be/6MtFqAAPJaw) 
     
 
-    Repository Link : https://github.com/BBJDH/GPC_dx11_Fortress2.git
+
 
 <br/>
 
@@ -21,7 +21,7 @@
     [![DirectX 11 포트리스 모작](http://img.youtube.com/vi/hZg79AJhfLY/0.jpg)](https://youtu.be/hZg79AJhfLY) 
     
 
-    Repository Link : https://github.com/BBJDH/GPC_10_2D.git
+
 
 
 </div>
