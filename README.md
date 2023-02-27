@@ -37,7 +37,7 @@ Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 - solved.ac : https://solved.ac/profile/ekffjaos553 <br/>
 
 
-<hr>
+
 <br/>
 
 
