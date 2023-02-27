@@ -28,15 +28,22 @@
 <br/>
 
 # 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![ReSharper](https://img.shields.io/badge/ReSharper-000000.svg?&style=for-the-badge&logo=ReSharper&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Game Developer](https://img.shields.io/badge/Game_Developer-E60012.svg?&style=for-the-badge&logo=Game_Developer&logoColor=white)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ekffjaos553)](https://solved.ac/ekffjaos553)
 
-### 🔗 Link
+<hr>
+<br/>
+
+# 🔗 Link
 Blog : https://blog.naver.com/ekffjaos553 <br/>
 Notion 이력서 : https://www.notion.so/25e93403884f43b8aaa718269edc8aac <br/>
 Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
@@ -44,9 +51,9 @@ Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 알고리즘 <br/>
 - BAEKJOON : https://www.acmicpc.net/user/ekffjaos553 <br/>
 - solved.ac : https://solved.ac/profile/ekffjaos553 <br/>
-https://solved.ac/profile/ekffjaos553
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekffjaos553)](https://solved.ac/ekffjaos553/)
+[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=ekffjaos553&theme=cold)](https://solved.ac/ekffjaos553/)
 <br/>
 
 
