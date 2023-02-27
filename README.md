@@ -41,21 +41,5 @@ Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 <br/>
 
 
-## 💪 Skills 
-### Platforms & Languages
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> 
-</p>
-
-<br/>
-
-### Tools
-<p>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/> 
-<img src="https://img.shields.io/badge/DirectX11-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
-</p>
-
-<br/>
-
 
 <div align=center>
