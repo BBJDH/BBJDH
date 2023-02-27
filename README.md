@@ -35,7 +35,7 @@ Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 알고리즘 <br/>
 - BAEKJOON : https://www.acmicpc.net/user/ekffjaos553 <br/>
 - solved.ac : https://solved.ac/profile/ekffjaos553 <br/>
-
+https://solved.ac/profile/ekffjaos553
 
 
 <br/>
