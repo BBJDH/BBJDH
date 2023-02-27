@@ -46,7 +46,7 @@
 # 🔗 Link
 Blog : https://blog.naver.com/ekffjaos553 <br/>
 Notion 이력서 : https://www.notion.so/25e93403884f43b8aaa718269edc8aac <br/>
-Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
+Youtube : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 <br/>
 알고리즘 <br/>
 
