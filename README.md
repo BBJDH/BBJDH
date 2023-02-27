@@ -27,8 +27,9 @@
 <hr>
 <br/>
 
-### Blog 
-Link : https://blog.naver.com/ekffjaos553
+### 🔗 Link
+Blog : https://blog.naver.com/ekffjaos553
+Notion 이력서 : [https://blog.naver.com/ekffjaos553](https://www.notion.so/25e93403884f43b8aaa718269edc8aac)
 </div>
 
 <hr>
