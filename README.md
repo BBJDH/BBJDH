@@ -53,7 +53,7 @@ Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 - solved.ac : https://solved.ac/profile/ekffjaos553 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekffjaos553)](https://solved.ac/ekffjaos553/)
-[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=ekffjaos553&theme=cold)](https://solved.ac/ekffjaos553/)
+[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=ekffjaos553&theme=cold)](https://www.acmicpc.net/user/ekffjaos553)
 <br/>
 
 
