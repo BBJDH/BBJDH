@@ -29,7 +29,11 @@
 
 ### 🔗 Link
 Blog : https://blog.naver.com/ekffjaos553 <br/>
-Notion 이력서 : https://www.notion.so/25e93403884f43b8aaa718269edc8aac
+Notion 이력서 : https://www.notion.so/25e93403884f43b8aaa718269edc8aac <br/>
+Youtube Link : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
+알고리즘 <br/>
+- BAEKJOON : https://www.acmicpc.net/user/ekffjaos553 <br/>
+- solved.ac : https://solved.ac/profile/ekffjaos553 <br/>
 </div>
 
 <hr>
