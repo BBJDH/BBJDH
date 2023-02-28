@@ -48,7 +48,7 @@ Blog : https://blog.naver.com/ekffjaos553 <br/>
 Notion 이력서 : https://www.notion.so/25e93403884f43b8aaa718269edc8aac <br/>
 Youtube : https://www.youtube.com/channel/UCmDoFITM9wUCNuogX16sWBw <br/>
 <br/>
-알고리즘 <br/>
+알고리즘 (solved.ac / Baekjoon )<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekffjaos553)](https://solved.ac/ekffjaos553/)
 [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=ekffjaos553&theme=cold)](https://www.acmicpc.net/user/ekffjaos553)
